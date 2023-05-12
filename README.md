@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I'm Muhammad Ali Hassan, a passionate and dedicated web developer based in Lahore, Pakistan. I have extensive experience in developing modern web applications using HTML5, CSS3, JavaScript, and various front-end frameworks.
+I'm Ali Hassan, a passionate and dedicated web developer based in Lahore, Pakistan. I have extensive experience in developing modern web applications using HTML5, CSS3, JavaScript, and various front-end frameworks.
 
 ## Skills and Expertise
 
