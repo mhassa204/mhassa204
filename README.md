@@ -13,11 +13,11 @@ I'm Ali Hassan, a passionate and dedicated web developer based in Lahore, Pakist
 
 ## Work Experience
 
-I have been working as a Lecturer in the Computer Science Department at COMSATS University Islamabad, Lahore Campus since 2018, where I teach various courses on web development and programming languages. Prior to this, I completed my Master's in Big Data Technologies from Glasgow Caledonian University, UK.
+I have been working as a Lecturer since 2018, where I teach various courses on web development and programming languages.
 
 ## Contact Me
 
-Feel free to reach out to me via email at mahassan@cuilahore.edu.pk or connect with me on [LinkedIn](https://www.linkedin.com/in/mhassa204/). I'm always open to discussing new web development projects and opportunities.
+Feel free to reach out to me via email at mhassa204@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mhassa204/). I'm always open to discussing new web development projects and opportunities.
 
 <!--
 **mhassa204/mhassa204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
