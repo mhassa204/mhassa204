@@ -4,11 +4,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?label=Role&message=Assistant%20Director%20(DevOps)&color=0A66C2&style=for-the-badge&logo=azuredevops&logoColor=white" alt="Current Role" />
-  <img src="https://img.shields.io/static/v1?label=Organization&message=Punjab%20Sahulat%20Bazaars%20Authority&color=1E90FF&style=for-the-badge&logo=office&logoColor=white" alt="Organization" />
-  <img src="https://img.shields.io/static/v1?label=Location&message=Lahore%2C+Pakistan&color=FF6B6B&style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-</div>
 
 <br/>
 
