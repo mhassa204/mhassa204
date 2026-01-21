@@ -4,6 +4,11 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?label=Role&message=Assistant%20Director%20(DevOps)&color=0A66C2&style=for-the-badge&logo=azuredevops&logoColor=white" alt="Current Role" />
+  <img src="https://img.shields.io/static/v1?label=Organization&message=Punjab%20Sahulat%20Bazaars%20Authority&color=1E90FF&style=for-the-badge&logo=office&logoColor=white" alt="Organization" />
+  <img src="https://img.shields.io/static/v1?label=Location&message=Lahore%2C+Pakistan&color=FF6B6B&style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+</div>
 
 <br/>
 
@@ -13,14 +18,6 @@ As **Assistant Director (DevOps)** at **Punjab Sahulat Bazaars Authority (PSBA)*
 
 With over **7 years** of combined experience in industry leadership, academic instruction, research, and industry collaboration, I ensure digital platforms are built effectively, operate smoothly, and deliver measurable value to stakeholders and the public.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhassa204&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=28" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhassa204&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhassa204&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</div>
 
 <br/>
 
