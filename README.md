@@ -5,9 +5,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Assistant%20Director%20(DevOps)-Punjab%20Sahulat%20Bazaars-0078D4?style=for-the-badge&logoColor=white&logo=azuredevops&color=0A66C2" alt="Current Role" />
-  <img src="https://img.shields.io/badge/7%2B%20Years-Experience-2ECC71?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-%F0%9F%87%B5%F0%9F%87%B0-FF6B6B?style=for-the-badge&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/static/v1?label=Role&message=Assistant%20Director%20(DevOps)&color=0A66C2&style=for-the-badge&logo=azuredevops&logoColor=white" alt="Current Role" />
+  <img src="https://img.shields.io/static/v1?label=Experience&message=7+%20Years&color=2ECC71&style=for-the-badge&logo=clockify&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/static/v1?label=Location&message=Lahore%2C%20Pakistan&color=FF6B6B&style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </div>
 
 <br/>
