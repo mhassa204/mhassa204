@@ -18,14 +18,14 @@ Currently **leading DevOps operations** at Punjab Sahulat Bazaars Management Com
 
 Passionate about bridging strategy, execution, and talent development — with roots in academic instruction and research.
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhassa204&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=28" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhassa204&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Streak" width="48%" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mhassa204&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 <br/>
 
