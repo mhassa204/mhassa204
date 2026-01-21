@@ -14,7 +14,7 @@
 
 I'm a **technology leader** specializing in **software development**, **DevOps transformation**, **cloud-native architecture**, and **engineering team excellence**.
 
-Currently **leading DevOps operations** at Punjab Sahulat Bazaars Management Company, I architect scalable platforms, drive automation & reliability at scale, align engineering with business goals, and mentor high-performing teams.
+Currently **leading DevOps operations** at Punjab Sahulat Bazaars Authority, I architect scalable platforms, drive automation & reliability at scale, align engineering with business goals, and mentor high-performing teams.
 
 Passionate about bridging strategy, execution, and talent development — with roots in academic instruction and research.
 
@@ -70,7 +70,7 @@ Passionate about bridging strategy, execution, and talent development — with r
 ## 💼 Professional Journey
 
 **Assistant Director (DevOps)**  
-Punjab Sahulat Bazaars Management Company · Lahore  
+Punjab Sahulat Bazaars Authority · Lahore  
 *Ongoing*  
 Leading large-scale DevOps function — infrastructure strategy, automation, resilience, cloud cost/security governance.
 
