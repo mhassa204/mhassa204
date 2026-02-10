@@ -66,8 +66,8 @@ Since 2018 · Lahore
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
-  <a href="mailto:mhassa204@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=Email&message=mhassa204@gmail.com&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:mahassan@psba.gop.pk">
+    <img src="https://img.shields.io/static/v1?label=Email&message=mahassan@psba.gop.pk&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/mhassa204/">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
